@@ -23,3 +23,6 @@ To run unit tests for the back-end, direct into the test directory in the front-
 ## Security
 Port number saved in .env file. This file will not be uploaded when the app is deployed due to it being igored in .gitignore.
 API keys will also be saved in this file.
+
+## Link to app
+https://github.com/JFWepener/iTunesApp
